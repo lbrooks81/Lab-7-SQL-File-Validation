@@ -1,0 +1,4 @@
+8.5/10
+
+Comment
+(-1.5) There is no check to ensure the file starts with "SELECT" and ends with a semi-colon.
